@@ -22,5 +22,4 @@ Para ejecutar
 -----
     ascensor:start().
 
-Nota: En este proyecto se usan retas en diferentes llamdas de funciones para la lectura de txt estas estan quemadas en el proyecto por lo que requieren ser cambiadas segun sea el caso con el fin de llamar a los dos txt que se encuentran en la carpeta tmp esto
-segun lo requiera el programa
+Nota: En este proyecto se usan rutas en diferentes llamadas de funciones para la lectura de txt, estas estan quemadas en el proyecto por lo que requieren ser cambiadas segun sea el caso con el fin de llamar a los dos txt que se encuentran en la carpeta tmp esto 349126segun lo requiera el programa
